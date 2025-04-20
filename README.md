@@ -1,6 +1,6 @@
 # Bank Management System
 
-A full-stack banking application with user and admin functionalities, built using Spring Boot and React.
+Full Stack Banking Application with user and admin role based functionalities, built using Spring Boot and React.
 
 ## Features
 
